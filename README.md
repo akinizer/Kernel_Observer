@@ -1,4 +1,4 @@
-# Kernel_Experiments
+# Kernel_Observer
 This is a group project of Akinizer and Volkan Sevinç
 
 1. General Information
